@@ -104,5 +104,6 @@ theme: Academia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:chiiyuu/chiiyuu.github.io.git
+  # repository: git@github.com:chiiyuu/chiiyuu.github.io.git
+  repository: git@github.com:zhanghaha1707/zhanghaha1707.github.io.git
   branch: pages
